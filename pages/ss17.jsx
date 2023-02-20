@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Script from 'next/script'
 const ss17 = () => {
   return (
     <>
     <h1 className='text-xl font-bold text-center p-5' >Sampling theorm</h1>
-    <script src="https://wtools.io/code/embed-js/bJO5"></script>
+    <Script  src="https://wtools.io/code/embed-js/bJO5"></Script >
     </>
   )
 }
