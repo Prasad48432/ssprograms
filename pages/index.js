@@ -17,55 +17,55 @@ export default function Home() {
       </Head>
       <h1 className='text-4xl text-black text-center'>SS PROGRAMS</h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss1">Operation on Matrices</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJNL">Operation on Matrices</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss2">Impulse Step Sine</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJNM">Impulse Step Sine</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss3">Square ,sawtooth ,sinc ,triangular</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOj">Square ,sawtooth ,sinc ,triangular</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss4">Operations on signals</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOl">Operations on signals</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss5">Delayed Advanced Folded</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOn">Delayed Advanced Folded</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss6">Energy Power of Signal</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOo">Energy Power of Signal</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss7">Folded Even Odd</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOs">Folded Even Odd</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss8">Real Imaginary</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOt">Real Imaginary</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss9">Convolution of signals</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOu">Convolution of signals</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss10">Auto & Cross correlation</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOw">Auto & Cross correlation</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss11">Linearity</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOx">Linearity</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss12">Time Variance</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOy">Time Variance</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss13">computation of unit sample unit step and sine and verify physical</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJOz">computation of unit sample unit step and sine and verify physical</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss14">Gibbs Phenomenon</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJO0">Gibbs Phenomenon</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss15">Fourier Transform Magnitude and phase spectrum</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJO3">Fourier Transform Magnitude and phase spectrum</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss16">waveform synthesis using laplace transform</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJO4">waveform synthesis using laplace transform</Link>
       </h1>
       <h1 className='text-4xl text-black text-center'>
-      <Link className='text-2xl text-black text-center' href="/ss17">Sampling theorm</Link>
+      <Link className='text-2xl text-black text-center' href="https://wtools.io/paste-code/bJO5">Sampling theorm</Link>
       </h1>
       
     </>
